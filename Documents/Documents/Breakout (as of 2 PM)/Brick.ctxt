@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=Brick(java.lang.String)
+comment0.text=\r\n\ Constructor\ that\ sets\ the\ image\ of\ the\ brick\ object\ to\ the\ given\ String\ image.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Brick\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
